@@ -1,0 +1,6 @@
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\bin\Debug\WebClient.exe.config
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\bin\Debug\WebClient.exe
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\bin\Debug\WebClient.pdb
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\obj\Debug\WebClient.csprojAssemblyReference.cache
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\obj\Debug\WebClient.exe
+D:\Microsoft\Project X\Project-Gonzalez\WebClient\obj\Debug\WebClient.pdb

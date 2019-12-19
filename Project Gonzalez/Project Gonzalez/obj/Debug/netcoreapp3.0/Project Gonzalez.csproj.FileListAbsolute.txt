@@ -1,0 +1,3 @@
+D:\Microsoft\Project X\Project-Gonzalez\Project Gonzalez\Project Gonzalez\obj\Debug\netcoreapp3.0\Project Gonzalez.csprojAssemblyReference.cache
+D:\Microsoft\Project X\Project-Gonzalez\Project Gonzalez\Project Gonzalez\obj\Debug\netcoreapp3.0\Project Gonzalez.AssemblyInfoInputs.cache
+D:\Microsoft\Project X\Project-Gonzalez\Project Gonzalez\Project Gonzalez\obj\Debug\netcoreapp3.0\Project Gonzalez.AssemblyInfo.cs
