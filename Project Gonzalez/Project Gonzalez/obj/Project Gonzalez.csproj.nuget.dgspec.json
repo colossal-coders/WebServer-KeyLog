@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft\\Project X\\Project-Gonzalez\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj": {}
+    "D:\\Progs C# + HTML\\Ccoders Repo\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj": {}
   },
   "projects": {
-    "D:\\Microsoft\\Project X\\Project-Gonzalez\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj": {
+    "D:\\Progs C# + HTML\\Ccoders Repo\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft\\Project X\\Project-Gonzalez\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj",
+        "projectUniqueName": "D:\\Progs C# + HTML\\Ccoders Repo\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj",
         "projectName": "Project Gonzalez",
-        "projectPath": "D:\\Microsoft\\Project X\\Project-Gonzalez\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj",
+        "projectPath": "D:\\Progs C# + HTML\\Ccoders Repo\\Project Gonzalez\\Project Gonzalez\\Project Gonzalez.csproj",
         "packagesPath": "C:\\Users\\5110781\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft\\Project X\\Project-Gonzalez\\Project Gonzalez\\Project Gonzalez\\obj\\",
+        "outputPath": "D:\\Progs C# + HTML\\Ccoders Repo\\Project Gonzalez\\Project Gonzalez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

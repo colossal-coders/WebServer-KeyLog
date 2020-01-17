@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 /*   Developer: "Aaron Staight"
- *        Spec: This client was desinged and created to share strings via a network/browser
- *              It uses a http listener and receiver to interact with the browser correctly
- *3-rd parties: "NULL"
+ *        Spec: "This client was desinged and created to share strings via a network/browser
+ *               It uses a http listener and receiver to interact with the browser correctly"
+ *3-rd parties: "NULL YET"
  */
 namespace WebClient
 {
@@ -54,7 +54,7 @@ namespace WebClient
                             Console.ForegroundColor = ConsoleColor.Green;
                             input = Console.ReadLine().ToUpper();
                             Console.ForegroundColor = ConsoleColor.White;
-                            inputCheck = outputs.Valid_NameInput(input);
+                            inputCheck = "YES";// outputs.Valid_NameInput(input);
                             httpInput = input;
                         }
                         while (inputCheck == "NO");
